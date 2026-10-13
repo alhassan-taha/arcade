@@ -148,6 +148,8 @@ This project is open source and available for educational purposes.
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
+> Maintained and contributed to by [@Ahmedabokhyal](https://github.com/Ahmedabokhyal) 🚀
+
 ## 📧 Contact
 
 For questions or feedback, please reach out to the project maintainers.
